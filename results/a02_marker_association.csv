@@ -1,0 +1,9 @@
+analysis,n,rho,perm_p
+"Spearman markers vs precision, all 23",23,-0.733,0.0003
+"Same, permutation stratified by chunked path",23,-0.733,0.0002
+Rank partial correlation given chunked path,23,-0.687,
+Spearman within single-pass documents,16,-0.614,0.0123
+Spearman within chunked documents,7,-0.505,0.2722
+"Spearman page count (held file) vs precision, all 23",23,-0.482,0.0241
+Spearman markers vs page count,23,0.752,
+Spearman markers vs chunked indicator,23,0.543,

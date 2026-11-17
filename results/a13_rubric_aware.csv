@@ -1,0 +1,10 @@
+set,step,docs,gold,emitted,matched,P,R,F1,emit_ratio
+All 23,as frozen,23,150,255,117,0.459,0.78,0.578,1.7
+All 23,A: minus wrapper + SOW-structure,23,150,151,117,0.775,0.78,0.777,1.01
+All 23,B: A minus duplicates,23,150,130,117,0.9,0.78,0.836,0.87
+0-4,as frozen,14,73,73,67,0.918,0.918,0.918,1.0
+0-4,A: minus wrapper + SOW-structure,14,73,71,67,0.944,0.918,0.931,0.97
+0-4,B: A minus duplicates,14,73,71,67,0.944,0.918,0.931,0.97
+5+,as frozen,9,77,182,50,0.275,0.649,0.386,2.36
+5+,A: minus wrapper + SOW-structure,9,77,80,50,0.625,0.649,0.637,1.04
+5+,B: A minus duplicates,9,77,59,50,0.847,0.649,0.735,0.77

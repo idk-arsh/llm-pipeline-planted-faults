@@ -1,0 +1,5 @@
+scope,arm,docs,gold,emitted,matched,P,P_lo,P_hi,R,R_lo,R_hi,F1,F1_lo,F1_hi,dup_spellings,dup_of_deleted,dup_other,of_deleted_matched,fabricated_tools,testable_tools,fabricated_share,containers
+all 23,pinned,23,150,359,119,0.331,0.24,0.496,0.793,0.64,0.92,0.468,0.361,0.619,22,0,22,2,52,1642,0.032,1
+all 23,fixed,23,150,333,113,0.339,0.241,0.519,0.753,0.571,0.906,0.468,0.355,0.626,3,0,3,0,60,1582,0.038,0
+21 without an empty response,pinned,21,127,330,108,0.327,0.23,0.513,0.85,0.757,0.931,0.473,0.359,0.648,22,0,22,2,41,1396,0.029,1
+21 without an empty response,fixed,21,127,293,104,0.355,0.242,0.566,0.819,0.703,0.921,0.495,0.367,0.684,0,0,0,0,48,1339,0.036,0

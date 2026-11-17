@@ -1,0 +1,5 @@
+plant,planted_stage,doc,cleared_by,verdict,hit,text_stage_diff_prescreen,dual_reference_triage,precision_l1_ref,precision_l1_faulted,recall_l1_ref,recall_l1_faulted,model_tasks_ref,model_tasks_faulted,tools_top_share_ref,tools_top_share_faulted,fabricated_ref,fabricated_faulted
+F1,cleaner,SOL-15,,no symptom detected,False,cleaner,no pre-inference signal,1.0-1.0,1.0,1.0-1.0,1.0,17-20,21,0.1-0.176,0.095,0-1,0
+F2,reader,SOL-10,,no symptom detected,False,reader,no pre-inference signal,0.75-0.75,0.75,0.75-0.75,0.75,17-19,18,0.158-0.176,0.278,0-0,0
+F3,prompt,SOL-09,reader;cleaner;prompt,ambiguous,False,prompt,pre-inference (reader or cleaner),0.429-0.571,0.429,0.375-0.5,0.375,16-16,17,0.062-0.062,0.118,0-0,2
+F0,none,SOL-20,,no symptom detected,True,none,no pre-inference signal,0.0-0.167,0.0,0.0-0.071,0.0,36-61,61,0.028-0.066,0.033,2-3,2

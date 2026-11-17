@@ -1,0 +1,8 @@
+model,served_model,provider,utc_date,calls
+m1,None,None,2026-09-26,24
+m1,inclusionai/ling-3.0-flash-fin:free,Novita,2026-09-25,10
+m1,inclusionai/ling-3.0-flash-fin:free,Novita,2026-09-26,20
+m1,inclusionai/ling-3.0-flash-fin:free,Novita,2026-09-27,24
+m2,None,None,2026-09-26,35
+m2,nvidia/nemotron-3-super-120b-a12b:free,Nvidia,2026-09-26,29
+m2,nvidia/nemotron-3-super-120b-a12b:free,Nvidia,2026-09-27,25

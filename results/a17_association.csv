@@ -1,0 +1,11 @@
+basis,analysis,n,rho,perm_p
+held (headline),"all 23, unstratified",23,-0.582,0.0052
+held (headline),"all 23, stratified by chunked path",23,-0.582,0.0105
+held (headline),rank partial given chunked,23,-0.493,
+held (headline),within single-pass,16,-0.413,0.1144
+held (headline),within chunked,7,-0.527,0.2252
+recorded (package),"all 23, unstratified",23,-0.733,0.0003
+recorded (package),"all 23, stratified by chunked path",23,-0.733,0.0002
+recorded (package),rank partial given chunked,23,-0.687,
+recorded (package),within single-pass,16,-0.614,0.0123
+recorded (package),within chunked,7,-0.505,0.2722

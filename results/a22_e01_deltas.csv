@@ -1,0 +1,7 @@
+scope,metric,pinned,fixed,delta,ci_lo,ci_hi,docs_up,docs_down,docs_same
+all 23,P,0.331,0.339,0.008,-0.056,0.077,5,8,10
+all 23,R,0.793,0.753,-0.04,-0.081,0.0,1,5,17
+all 23,F1,0.468,0.468,0.0,-0.059,0.057,5,8,10
+21 without an empty response,P,0.327,0.355,0.028,-0.024,0.094,5,6,10
+21 without an empty response,R,0.85,0.819,-0.031,-0.076,0.008,1,4,16
+21 without an empty response,F1,0.473,0.495,0.023,-0.029,0.077,5,6,10

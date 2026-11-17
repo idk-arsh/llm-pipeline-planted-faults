@@ -1,0 +1,7 @@
+Do NOT use as a "Parent Task" any heading that belongs
+to the procurement material around the work: incorporated
+contract clauses, instructions to offerors, evaluation
+factors, pricing schedules, standard solicitation forms
+(such as the SF 1449), proposal-submission instructions,
+or representations and certifications. Use only headings
+that name work the contractor must perform.

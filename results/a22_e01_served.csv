@@ -1,0 +1,6 @@
+arm,served_model,provider,utc_date,outcome,calls
+fixed,inclusionai/ling-3.0-flash-sante,Novita,2026-09-29,response,26
+fixed,inclusionai/ling-3.0-flash-sante,Novita,2026-09-30,response,15
+pinned,None,None,2026-09-29,no response (retried),10
+pinned,inclusionai/ling-3.0-flash-sante,Novita,2026-09-29,response,26
+pinned,inclusionai/ling-3.0-flash-sante,Novita,2026-09-30,response,15

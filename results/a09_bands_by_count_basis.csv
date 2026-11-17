@@ -1,0 +1,9 @@
+basis,band,docs,gold,emitted,matched,P,R,emit
+recorded (package),0-2,11,54,54,48,0.889,0.889,1.0
+recorded (package),3-4,3,19,19,19,1.0,1.0,1.0
+recorded (package),5+,9,77,182,50,0.275,0.649,2.36
+recorded (package),Spearman markers vs P (23),23,,,,-0.733,,
+recount (held file),0-2,14,72,70,61,0.871,0.847,0.97
+recount (held file),3-4,3,17,22,16,0.727,0.941,1.29
+recount (held file),5+,6,61,163,40,0.245,0.656,2.67
+recount (held file),Spearman markers vs P (23),23,,,,-0.582,,

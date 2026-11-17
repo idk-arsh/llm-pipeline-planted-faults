@@ -1,0 +1,7 @@
+item,rows,abstained
+run 1,23,0
+run 2,20,18
+run 3,24,0
+runs 1 vs 2,18 tasks in both (token-identical),abstention decision agrees on 2/18
+runs 2 vs 3,17 tasks in both (token-identical),abstention decision agrees on 2/17
+runs 1 vs 3,17 tasks in both (token-identical),abstention decision agrees on 17/17

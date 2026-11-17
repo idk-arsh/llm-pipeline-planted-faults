@@ -1,0 +1,8 @@
+class,entries
+grounded,1643
+fabricated,64
+prose,650
+untestable,9
+testable = grounded + fabricated,1707
+TOTAL,2366
+'None specified' among fabricated,1

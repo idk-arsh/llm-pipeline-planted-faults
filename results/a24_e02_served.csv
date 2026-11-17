@@ -1,0 +1,7 @@
+arm,served_model,provider,utc_date,outcome,calls
+exclusion,None,None,2026-09-30,no response (retried),3
+exclusion,inclusionai/ling-3.0-flash-sante,Novita,2026-09-30,response,2
+exclusion,inclusionai/ling-3.0-flash-sante,Novita,2026-10-01,response,20
+pinned,None,None,2026-09-30,no response (retried),9
+pinned,inclusionai/ling-3.0-flash-sante,Novita,2026-09-30,response,8
+pinned,inclusionai/ling-3.0-flash-sante,Novita,2026-10-01,response,16

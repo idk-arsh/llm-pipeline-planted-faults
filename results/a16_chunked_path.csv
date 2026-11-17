@@ -1,0 +1,28 @@
+document,format,doctype_pages,held_size,doctype_gt40,app_rule_chunked,differs
+SOL-01,pdf,82,82,True,True,False
+SOL-03,pdf,14,14,False,False,False
+SOL-04,pdf,34,34,False,False,False
+SOL-06,pdf,59,59,True,True,False
+SOL-07,docx,16,6305 words,False,False,False
+SOL-08,pdf,5,5,False,False,False
+SOL-09,docx,45,14274 words,True,False,True
+SOL-10,pdf,6,6,False,False,False
+SOL-11,docx,10,2950 words,False,False,False
+SOL-12,pdf,2,2,False,False,False
+SOL-13,pdf,3,3,False,False,False
+SOL-15,pdf,11,11,False,False,False
+SOL-16,docx,33,12930 words,False,False,False
+SOL-17,pdf,112,25,True,False,True
+SOL-18,pdf,18,18,False,False,False
+SOL-19,pdf,34,34,False,False,False
+SOL-20,pdf,40,40,False,False,False
+SOL-22,pdf,64,64,True,True,False
+SOL-24,pdf,121,44,True,True,False
+SOL-25,pdf,70,50,True,True,False
+SOL-27,pdf,101,27,True,False,True
+SOL-28,pdf,59,59,True,True,False
+SOL-30,pdf,22,22,False,False,False
+SOL-35,pdf,62,62,True,True,False
+SOL-38,pdf,13,13,False,False,False
+SOL-41,pdf,27,27,False,False,False
+SOL-42,pdf,20,20,False,False,False

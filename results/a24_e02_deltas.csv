@@ -1,0 +1,13 @@
+scope,metric,pinned,exclusion,delta,ci_lo,ci_hi,docs_up,docs_down,docs_same
+primary (held 5+),P,0.238,0.311,0.073,-0.211,0.187,4,2,0
+primary (held 5+),R,0.508,0.623,0.115,0.0,0.326,2,0,4
+primary (held 5+),F1,0.325,0.415,0.091,-0.102,0.235,4,2,0
+secondary (recorded-only 5+),P,0.542,0.419,-0.122,-0.144,0.0,0,1,2
+secondary (recorded-only 5+),R,0.812,0.812,0.0,0.0,0.0,0,0,3
+secondary (recorded-only 5+),F1,0.65,0.553,-0.097,-0.143,0.0,0,1,2
+primary without an empty response,P,0.125,0.239,0.114,0.012,0.231,4,1,0
+primary without an empty response,R,0.318,0.477,0.159,0.0,0.425,2,0,3
+primary without an empty response,F1,0.179,0.318,0.139,0.024,0.287,4,1,0
+secondary without an empty response,P,0.7,0.7,0.0,0.0,0.0,0,0,2
+secondary without an empty response,R,0.778,0.778,0.0,0.0,0.0,0,0,2
+secondary without an empty response,F1,0.737,0.737,0.0,0.0,0.0,0,0,2

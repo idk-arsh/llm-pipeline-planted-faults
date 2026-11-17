@@ -1,0 +1,13 @@
+plant,planted_stage,detector,flagged,correct,triggering_measures
+F1,cleaner,dual_reference,yes,yes,total_input_only
+F1,cleaner,stage_diff,yes,yes,token_loss_share;and_lost;model_input_chars
+F1,cleaner,prompt_audit,no,no,
+F2,reader,dual_reference,no,no,
+F2,reader,stage_diff,yes,yes,token_loss_share;and_lost;of_lost;model_input_chars
+F2,reader,prompt_audit,no,no,
+F3,prompt,dual_reference,yes,yes,total_preinference
+F3,prompt,stage_diff,no,no,
+F3,prompt,prompt_audit,yes,yes,prompt_literal_defaults;rows_with[Microsoft 365 / Jira]
+F0,none (control),dual_reference,no,yes,
+F0,none (control),stage_diff,no,yes,
+F0,none (control),prompt_audit,no,yes,
